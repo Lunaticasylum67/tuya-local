@@ -3,6 +3,12 @@ products:
   - id: u8x8hhpomtchfyag
     manufacturer: Prosto
     model: WFU-T12PM
+  - id: zmuquaytzuth4gkp
+    manufacturer: Tuya
+    model: Smart Plug
+  - id: gvsnpmrhp1ktgawm
+    manufacturer: Tuya
+    model: Smart Plug
 entities:
   - entity: switch
     class: outlet
